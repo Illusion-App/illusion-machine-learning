@@ -10,7 +10,7 @@ import json
 THRESHOLD = 0.5
 
 # Load the ML model
-model = tf.keras.models.load_model('./model/final_model3.h5')
+model = tf.keras.models.load_model('./model/final_model.h5')
 
 # Image labels
 labels = {0: 'Fake',
