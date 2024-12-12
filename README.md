@@ -6,6 +6,7 @@
 <a href="https://drive.google.com/file/d/1vIEucLGnyYfYSeXD9cg_rh3BKUOzLzsH/view?usp=sharing">Download Model</a>
 
 <br>
+<br>
 
 <ol>
   <li>Put the downloaded model inside the <code>model</code> folder</li>
