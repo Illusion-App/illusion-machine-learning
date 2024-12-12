@@ -6,7 +6,7 @@ import tensorflow as tf
 from keras.utils import load_img, img_to_array
 import json
 
-# Threshold (level of tolerance for the classification) 
+# Threshold Classification
 THRESHOLD = 0.5
 
 # Load the ML model
